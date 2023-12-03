@@ -1,1 +1,7 @@
+# Ignore specific files
+
+
+
+# Ignore entire directories
+data/
 
