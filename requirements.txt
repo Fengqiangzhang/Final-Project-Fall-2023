@@ -1,0 +1,8 @@
+!pip install sodapy
+!pip install dbfread
+!pip install psycopg2-binary
+!pip install geoalchemy2
+!pip install geopandas
+!pip install sqlalchemy
+!pip install shapely
+!pip install nb_black
